@@ -4,13 +4,12 @@ Welcome to Green Vision Farm!
 
 ## About Us
 
-Green Vision Farm is [a brief description of the organization, its mission, and goals]. We strive to [your main objective or mission].
+Green Vision Farm is dedicated to the agriculture sector. Our primary goal is to address the need for process automation, high-quality analysis, and various conveniences for farmers. We are currently preparing to launch our main platform, which will offer innovative solutions to these challenges. Additionally, we are committed to exploring various directions and trying new approaches to continuously evolve and enhance the agricultural industry. By improving agricultural processes, we aim to enable farmers to use land and labor more efficiently, which will help reduce costs and improve the quality and affordability of food.
 
 ## Our Projects
 
-1. **Project 1** - [Brief description of Project 1]
-2. **Project 2** - [Brief description of Project 2]
-3. **Project 3** - [Brief description of Project 3]
+1. **Project 1** - Platform
+2. **Project 2** - AGROBot
 
 ## Contact Us
 
